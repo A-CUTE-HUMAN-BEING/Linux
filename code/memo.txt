@@ -1,0 +1,2 @@
+这个文件里面的c是test.c gcc出来的，如果想运行，需要打出./c即可。
+normal是gcc正常编译文件 static是在后面加了-static的链接静态库文件
