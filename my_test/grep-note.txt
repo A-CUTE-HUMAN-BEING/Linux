@@ -1,0 +1,6 @@
+aaaAAA
+
+1122
+
+
+grep 'A' grep.txt(查找指令）

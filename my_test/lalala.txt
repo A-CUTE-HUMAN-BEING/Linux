@@ -1,0 +1,6 @@
+sl 小火车
+cowsay hello 小牛
+echo "dog" | boxes -d dog 小狗
+echo "cat" | boxes -d cat 小猫
+linux_logo加-L 数字（出现不同logo
+
